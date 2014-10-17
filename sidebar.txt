@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[wbm:home|Door43 (wbm)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-wbm|d43-wbm repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-wbm/archive/master.zip|d43-wbm.zip]]
+
+**Recent Changes**
+{{changes>ns = wbm}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/wbm|Ethnologue data]]
+
